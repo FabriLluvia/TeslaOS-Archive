@@ -1,0 +1,35 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+/* Estilos para el título principal */
+h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el subtítulo */
+sub {
+    font-size: 0.8em;
+    color: #666;
+}
+
+/* Estilos para el párrafo principal */
+p {
+    color: #555;
+    font-size: 1.1em;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+/* Estilos para la etiqueta strong dentro de los párrafos */
+p strong {
+    color: #222;
+    font-weight: bold;
+}
