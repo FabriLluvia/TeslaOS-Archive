@@ -1,7 +1,22 @@
-# TeslaOS-Archive
+<details open="open">
+  <summary>TeslaOS Archive</summary>
+  <ul>
+    <li><a href="#TeslaOS-Archive">TeslaOS Archive</a></li>
+    <li><a href="#Web-Files-Folder">Web Files Folder</a></li>
+    <li><a href="#Web-Archive-Folder">Web Archive Folder</a></li>
+    <li><a href="#Current-Version-Folder">Current Version Folder</a></li>
+    <li><a href="#Legacy-Versions-Folder">Legacy Versions Folder</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#Acknowledgements">Acknowledgements</a></li>
+
+  </ul>
+</details>
+
+
+# TeslaOS Archive
  This repository is the Archive of TeslaOS.
 
- ## Web Files Folder
+## Web Files Folder
 
  That is the folder where the [current version of the web](/Web-Files/) is located. When the web gets updated, the previous version goes to the folder [Web-archive](/Web-Archive/).
 
@@ -69,3 +84,16 @@ Basically, this is the folder where the [current version of TeslaOS](/Current-Ve
 ## Legacy Versions Folder
 
 This is the folder where the [legacy versions of TeslaOS](/Legacy-Versions/) are moved.
+
+
+# Contact
+
+FabriLluvia - fmu.elmundodelosjuegos@gmail.com
+
+[Project Link](https://github.com/fabrilluvia/Linux-TeslaOS)
+
+# Acknowledgements
+
+
+* FabriLluvia, me, for this proyect
+* Alejandra, by the motivation :D
