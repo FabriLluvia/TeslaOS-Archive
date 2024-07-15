@@ -1,1 +1,0 @@
-This is the folder where the legacy versions of TeslaOS are moved.

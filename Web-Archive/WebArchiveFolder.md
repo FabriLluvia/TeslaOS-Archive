@@ -1,1 +1,1 @@
-This is the folder where the legacy version of the web is located. When the web gets updated, the previous version goes to this folder.
+This is the folder where the [legacy version](/Web-Archive/) of the web is located. When the web gets updated, the previous version goes to [this folder](/Web-Archive/).
