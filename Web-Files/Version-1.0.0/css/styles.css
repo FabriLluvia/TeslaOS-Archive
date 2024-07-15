@@ -1,35 +1,64 @@
-/* Estilos para el cuerpo del documento */
+/*Define fonts*/
+@font-face {
+    font-family: 'Oxygen';
+    font-weight: 700;
+    src: url('../fonts/Oxygen-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Oxygen';
+    font-weight: 300;
+    src: url('../fonts/Oxygen-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Oxygen';
+    font-weight: 400;
+    src: url('../fonts/Oxygen-Regular.ttf') format('truetype');
+}
+
+
+/* Document body */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Oxygen';
+    font-weight: 400; /* Regular */
     line-height: 1.6;
     margin: 20px;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #ffffff;
 }
 
-/* Estilos para el título principal */
+/* Title */
 h1 {
+    font-family: 'Oxygen';
+    font-weight: 700; /* Bold */
     color: #333;
     font-size: 2.5em;
     margin-bottom: 20px;
 }
 
-/* Estilos para el subtítulo */
+/* Subtitle tag */
 sub {
-    font-size: 0.8em;
+    font-family: 'Oxygen';
+    font-weight: 400; /* Regular */
+    font-size: 2.0em;
     color: #666;
 }
 
-/* Estilos para el párrafo principal */
+/* Paragraph tag */
 p {
+    font-family: 'Oxygen';
+    font-weight: 300; /* Regular */
     color: #555;
     font-size: 1.1em;
     line-height: 1.8;
     margin-bottom: 30px;
 }
 
-/* Estilos para la etiqueta strong dentro de los párrafos */
+/* Strong tag */
 p strong {
+    font-family: 'Oxygen';
+    font-weight: 700; /* Bold */
     color: #222;
     font-weight: bold;
 }
