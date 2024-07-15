@@ -2,19 +2,19 @@
 @font-face {
     font-family: 'Oxygen';
     font-weight: 700;
-    src: url('../fonts/Oxygen-Bold.ttf') format('truetype');
+    src: url('../fonts/oxygen/Oxygen-Bold.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Oxygen';
     font-weight: 300;
-    src: url('../fonts/Oxygen-Light.ttf') format('truetype');
+    src: url('../fonts/oxygen/Oxygen-Light.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Oxygen';
     font-weight: 400;
-    src: url('../fonts/Oxygen-Regular.ttf') format('truetype');
+    src: url('../fonts/oxygen/Oxygen-Regular.ttf') format('truetype');
 }
 
 
