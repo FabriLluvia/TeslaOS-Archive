@@ -1,0 +1,1 @@
+Basically, this is the folder where the current version of TeslaOS is located. When the web gets updated, the previous version goes to the folder [Legacy](/Legacy/)
