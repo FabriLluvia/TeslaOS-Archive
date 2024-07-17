@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Live Preview: Run Server",
+            "type": "shell",
+            "command": "live-server",
+            "args": [
+                "--port=5500",
+                "--watch=../../../../../TeslaOS-Archive/Web-Files/Version-1.0.0/html"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            },
+            "detail": "Starts the Live Preview server"
+        }
+    ]
+}
