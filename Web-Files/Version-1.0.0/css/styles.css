@@ -66,7 +66,7 @@ p strong {
 table, tr, td {
     font-family: 'Oxygen';
     font-weight: 300;
-    border: 3px solid black;
+    border: 3px solid #0A090C;
     border-collapse: collapse;
     border-style: solid;
   }
@@ -74,7 +74,7 @@ table, tr, td {
 th {
     font-family: 'Oxygen';
     font-weight: 700;
-    border: 3px solid black;
+    border: 3px solid #0A090C;
 }
 
 button {
